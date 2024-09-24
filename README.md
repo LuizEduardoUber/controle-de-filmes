@@ -33,9 +33,12 @@ O escopo deste projeto abrange:
 
 A paleta de cores escolhida para este projeto é a seguinte:
 
-Roxo: #651366
-Rosa Escuro: #a71a5b
-Vermelho: #e7204e
+<div style="display: flex; gap: 10px;">
+  <div style="width: 50px; height: 50px; background-color: #651366;"></div>
+  <div style="width: 50px; height: 50px; background-color: #a71a5b;"></div>
+  <div style="width: 50px; height: 50px; background-color: #e7204e;"></div>
+</div>
+
 
 ## Contribuições
 Sinta-se à vontade para contribuir com ideias, melhorias e sugestões. Juntos, podemos tornar este aplicativo ainda mais incrível!
