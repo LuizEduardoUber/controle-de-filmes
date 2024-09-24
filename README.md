@@ -39,7 +39,6 @@ A paleta de cores escolhida para este projeto é a seguinte:
   <div style="width: 50px; height: 50px; background-color: #e7204e;"></div>
 </div>
 
-
 ## Contribuições
 Sinta-se à vontade para contribuir com ideias, melhorias e sugestões. Juntos, podemos tornar este aplicativo ainda mais incrível!
 
