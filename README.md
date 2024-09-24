@@ -1,31 +1,30 @@
-# Nome do Projeto
+# App de Controle de Filmes Assistidos
 
 ## Descrição
-Este projeto é uma [breve descrição do que o projeto faz, sua finalidade e objetivos].
+Este projeto é um aplicativo que permite ao usuário marcar os filmes que já assistiu, adicionar comentários e receber recomendações de filmes.
 
 ## Escopo
 O escopo deste projeto abrange:
 
-- [Funcionalidade 1: Descrição]
-- [Funcionalidade 2: Descrição]
-- [Funcionalidade 3: Descrição]
-- [Adicione outras funcionalidades conforme necessário]
+- **Marcação de Filmes:** O usuário pode adicionar filmes à sua lista de assistidos e marcar como assistidos.
+- **Comentários:** Os usuários podem adicionar comentários sobre os filmes assistidos.
+- **Recomendações:** O aplicativo oferece recomendações baseadas nos filmes que o usuário já assistiu.
 
-## Tema
-O tema deste projeto é [descrever o tema, sua inspiração e como ele se reflete no design e na funcionalidade do projeto].
+### Tecnologias e Widgets Utilizados
+- **Widgets:**
+  - `Text`: Para exibir informações dos filmes.
+  - `Icon`: Para botões e ícones de interação.
+  - `ListView`: Para mostrar a lista de filmes assistidos.
+  - `Image`: Para exibir capas de filmes.
 
-## Paleta de Cores
-A paleta de cores escolhida para este projeto é a seguinte:
+- **Stateful Widget:** Para adicionar e remover filmes da lista de assistidos.
 
-- ![#651366](https://via.placeholder.com/15/651366/000000?text=+) `#651366`
-- ![#a71a5b](https://via.placeholder.com/15/a71a5b/000000?text=+) `#a71a5b`
-- ![#e7204e](https://via.placeholder.com/15/e7204e/000000?text=+) `#e7204e`
+- **Stateless Widget:** Para exibir a lista de filmes assistidos.
 
-Essas cores foram selecionadas para [explique brevemente por que essas cores foram escolhidas, como elas se complementam e o sentimento que desejam evocar].
+- **Scaffold:** Com AppBar contendo um botão para adicionar filmes.
 
-## Instalação
-Para instalar este projeto, siga os seguintes passos:
+- **List:** Para armazenar e exibir os filmes assistidos.
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+- **Map:** Para guardar informações dos filmes, como:
+  ```dart
+  {'titulo': 'Matrix', 'assistido': true}
