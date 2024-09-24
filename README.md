@@ -28,3 +28,10 @@ O escopo deste projeto abrange:
 - **Map:** Para guardar informações dos filmes, como:
   ```dart
   {'titulo': 'Matrix', 'assistido': true}
+
+Paleta de Cores
+A paleta de cores escolhida para este projeto é a seguinte:
+
+#651366
+#a71a5b
+#e7204e
