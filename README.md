@@ -29,3 +29,18 @@ O escopo deste projeto abrange:
   ```dart
   {'titulo': 'Matrix', 'assistido': true}
 
+Paleta de Cores
+A paleta de cores escolhida para este projeto é a seguinte:
+
+Roxo: #651366
+Rosa Escuro: #a71a5b
+Vermelho: #e7204e
+
+Contribuições
+Sinta-se à vontade para contribuir com ideias, melhorias e sugestões. Juntos, podemos tornar este aplicativo ainda mais incrível!
+
+Como Usar
+Adicionar Filme: Clique no botão "+" na AppBar para adicionar um filme à lista.
+Marcar como Assistido: Selecione um filme da lista e marque como assistido.
+Adicionar Comentários: Clique no filme para adicionar seus comentários e avaliações.
+Receber Recomendações: Confira as sugestões de filmes baseadas no seu histórico.
